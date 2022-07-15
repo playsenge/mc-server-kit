@@ -1,0 +1,5 @@
+papermc.io - Standard
+github.com/nopjmp/Dionysus - 1.12.2 (Anarchy)
+purpurmc.org - Latest
+github.com/Wind-Development/WindSpigot - 1.8
+github.com/hpfxd/PandaSpigot - 1.8
