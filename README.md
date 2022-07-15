@@ -1,2 +1,2 @@
-# mc-server-kit
+# Minecraft Server Kit
 A set of utilities helpful for building Minecraft servers.
