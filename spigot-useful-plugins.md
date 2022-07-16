@@ -4,6 +4,7 @@
 
 - [WorldEdit](https://dev.bukkit.org/projects/worldedit/files "WorldEdit")/[FAWE](https://intellectualsites.github.io/download/fawe.html "FAWE")
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard/files "WorldGuard")
+- [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/ "ProtocolLib")
 - [Skript](https://github.com/SkriptLang/Skript/releases "Skript")
 - [SkJade](https://www.spigotmc.org/resources/skjade.89127/ "SkJade")
 - [skQuery](https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/ "skQuery")
